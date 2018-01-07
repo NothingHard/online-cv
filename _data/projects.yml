@@ -1,16 +1,15 @@
 - intro:
-  description: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
-  sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+  description: "Selected projects"
 
 - project:
   title: "Early Detection of Neurodegeneration"
   link: "https://nothinghard.github.io/projects/1_2017-12-16-MRI_cmc"
-  tagline: "to detect early-stage neurodegeneration using 3D convolutional neural networks"
+  tagline: "detect early-stage neurodegeneration using 3D convolutional neural networks"
 - project:
   title: "In-depth Study on Batch Normalization"
   link: "https://nothinghard.github.io/projects/1_2017-07-01-BN_cmc"
-  tagline: "to investigate why batch normalization works so well in both theoretical and experimental viewpoints"
+  tagline: "investigate why batch normalization works so well in both theoretical and experimental viewpoints"
 - project:
   title: "Metabolic System Analysis"
   link: "https://nothinghard.github.io/projects/1_2017-03-16-MSA_cmc"
-  tagline: "to apply machine learning in analyzing metabolic system robustness: explanation and prediction"
+  tagline: "apply machine learning in analyzing metabolic system robustness: explanation and prediction"
