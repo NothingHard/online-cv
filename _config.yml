@@ -14,17 +14,18 @@ baseurl: '/online-cv' #change it according to your repository name
 name: Chun Ming Chang
 tagline: EECS PhD student
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'I am currently a research assistant in 
+summary: '<p>I am a research assistant in 
 <a href="http://dirl.iis.sinica.edu.tw/" target="_blank">Data Insight Research Lab</a> of Academia Sinica, 
-and also a first year Ph.D. student in Electrical Engineering and Computer Science (EECS) in National Taiwan University, 
-working with Dr. Sheng-Wei (a.k.a. Kuan-Ta) Chen and Dr. Chin-Laung Lei. 
-My research focuses on Deep Learning and its applications, especially in medical imageology.<br>
+working with Dr. Sheng-Wei (a.k.a. Kuan-Ta) Chen,
+and also a first-year Ph.D. student in Electrical Engineering and Computer Science (EECS) in National Taiwan University under Dr. Chin-Laung Lei.
 
-In addition to my research experience, I am one of the invited speakers to introduce machine learning and deep learning 
+<p> My research focuses on Deep Learning and its applications, especially in clinical diagnosis and medical imageology.
+
+<p> In addition to my research experience, I am one of the invited speakers to introduce machine learning and deep learning 
 in both theoretical and practical aspects in <a href="http://ds.sinica.edu.tw/ai-month-2017/">AI Month 2017</a> and 
-[ML Month 2017](http://ds.sinica.edu.tw/category/2017-ml-month/), Academia Sinica. 
-Moreover, I also give a <a href="http://foundation.datasci.tw/step-by-step-dl-170813/">hands-on tutorial of deep learning</a> and 
-a [hands-on tutorial of practical data analysis in R]() in <a href="http://foundation.datasci.tw/">Data Science Conference in Taiwan</a>. <br>
+<a href="http://ds.sinica.edu.tw/category/2017-ml-month/">ML Month 2017</a>, Academia Sinica. 
+Moreover, I also give a <a href="https://www.slideshare.net/ssuser950871/handson-tutorial-of-deep-learning">hands-on tutorial of deep learning (slideshare)</a> and 
+a <a href="https://www.slideshare.net/ssuser950871/practical-data-analysis-in-r">practical data analysis in R (slideshare)</a> in <a href="http://foundation.datasci.tw/">Data Science Conference in Taiwan</a>. <br>
 See my <a href="https://nothinghard.github.io/online-cv/">CV</a> for more details.'
 
 #sidebar links
