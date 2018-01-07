@@ -19,15 +19,16 @@ in National Taiwan University, working with Dr. Sheng-Wei (a.k.a. Kuan-Ta) Chen 
 also a research assistant in 
 <a href="http://dirl.iis.sinica.edu.tw/" target="_blank">Data Insight Research Lab</a> of Academia Sinica.
 
-<p> My research focuses on Deep Learning and its applications, especially in clinical diagnosis and medical imageology.
+<p>My research focuses on Deep Learning and its applications, especially in clinical diagnosis and medical imageology.
 To know more about my research, please find my <a href="https://nothinghard.github.io/publications/">publications</a> and <a href="https://nothinghard.github.io/projects/">projects</a>.
 
-<p> In addition to my research experience, I am honored as one of the invited speakers in <a href="http://ds.sinica.edu.tw/ai-month-2017/">AI Month 2017</a> and 
+<p>Recently, I am honored to be one of the invited speakers in <a href="http://ds.sinica.edu.tw/ai-month-2017/">AI Month 2017</a> and 
 <a href="http://ds.sinica.edu.tw/category/2017-ml-month/">ML Month 2017</a>, Academia Sinica. 
-Besides, I also give two hands-on tutorial of <a href="https://www.slideshare.net/ssuser950871/handson-tutorial-of-deep-learning">deep learning (slideshare)</a> and 
-<a href="https://www.slideshare.net/ssuser950871/practical-data-analysis-in-r">practical data analysis in R (slideshare)</a> in <a href="http://foundation.datasci.tw/">Data Science Conference in Taiwan</a>. <br>
+And also give two hands-on tutorial of <a href="https://www.slideshare.net/ssuser950871/handson-tutorial-of-deep-learning">deep learning (slideshare)</a> and 
+<a href="https://www.slideshare.net/ssuser950871/practical-data-analysis-in-r">practical data analysis in R (slideshare)</a> 
+n <a href="http://foundation.datasci.tw/">Data Science Conference in Taiwan</a>.
 
-<p> See my <a href="https://nothinghard.github.io/online-cv/">CV</a> for more details.'
+<p>See my <a href="https://nothinghard.github.io/online-cv/">CV</a> for more details.'
 
 #sidebar links
 email: d05921027@ntu.edu.tw
@@ -35,7 +36,7 @@ phone: +886 911 093 825
 website: nothinghard.github.io #do not add http://
 linkedin: 
 github: nothinghard
-twitter: '@twcmchang'
+twitter: 'twcmchang'
 #Update all the sections by editing the files inside _data folder.
 
 # Tracker

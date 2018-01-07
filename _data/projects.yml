@@ -3,22 +3,14 @@
   sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
 
 - project:
-  title: Velocity
-  link: "#hook"
-  tagline: "A responsive website template designed to help startups promote, market and sell their products."
+  title: "Detecting Early-stage Neurodegeneration using 3D Convolutional Neural Networks"
+  link: "https://nothinghard.github.io/projects/1_2017-12-16-MRI_cmc"
+  tagline: "To help detect early-stage neurodegeneration in brain, this work proposes a novel 3D convolutional neural network to quantify the brain aging from MRI raw images."
 - project:
-  title: DevStudio
-  link: "#"
-  tagline: "A responsive website template designed to help web developers/designers market their services."
+  title: "Why Batch Normalization Works so Well?"
+  link: "https://nothinghard.github.io/projects/1_2017-07-01-BN_cmc"
+  tagline: "Even though batch normalization (BN) is regarded as the necessary component in many well-known network architectures, but the question that why batch normalization works so well still remains mysterious. This work aims at investigating the possible reasons or explanation in both theoretical and experimental viewpoints."
 - project:
-  title: Tempo
-  link: "#"
-  tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-- project:
-  title: Atom
-  link: "#"
-  tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-- project:
-  title: Delta
-  link: "#"
-  tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+  title: "Using Machine Learning in Metabolic System Analysis: Explanation and Prediction"
+  link: "https://nothinghard.github.io/projects/1_2017-03-16-MSA_cmc"
+  tagline: "This work analyzes the influence of enzyme kinects to the robustness of a metabolic system, also called pathway, and provides insights on how to adjust system parameters. Several machine learning techniques are applied to recognize bottleneck reactions and identify reactions to be either positive or negative to system robustness."
