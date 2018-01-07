@@ -5,12 +5,12 @@
 - project:
   title: "Early Detection of Neurodegeneration"
   link: "https://nothinghard.github.io/projects/1_2017-12-16-MRI_cmc"
-  tagline: "detecting early-stage neurodegeneration using 3D convolutional neural networks"
+  tagline: "to detect early-stage neurodegeneration using 3D convolutional neural networks"
 - project:
   title: "In-depth Study on Batch Normalization"
   link: "https://nothinghard.github.io/projects/1_2017-07-01-BN_cmc"
-  tagline: "investigating 'why batch normalization works so well' in both theoretical and experimental viewpoints"
+  tagline: "to investigate why batch normalization works so well in both theoretical and experimental viewpoints"
 - project:
-  title: "Analysis of Metabolic System Robustness"
+  title: "Metabolic System Analysis"
   link: "https://nothinghard.github.io/projects/1_2017-03-16-MSA_cmc"
-  tagline: "using machine learning in metabolic system analysis: explanation and prediction"
+  tagline: "to apply machine learning in analyzing metabolic system robustness: explanation and prediction"

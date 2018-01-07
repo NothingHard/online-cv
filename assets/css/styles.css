@@ -130,19 +130,20 @@ p {
   color: rgba(255, 255, 255, 0.6);
   font-weight: 500;
   margin-bottom: 0px;
-  margin-top: 5px;
+  margin-top: 3px;
 }
 .sidebar-wrapper .education-container .location {
   color: rgba(255, 255, 255, 0.6);
   font-weight: 500;
   margin-bottom: 0px;
-  margin-top: 5px;
+  margin-top: 3px;
 }
 
 .sidebar-wrapper .education-container .time {
   color: rgba(255, 255, 255, 0.6);
   font-weight: 500;
-  margin-bottom: 5px;
+  margin-bottom: 0px;
+  margin-top: 3px;
 }
 .sidebar-wrapper .languages-container .lang-desc {
   color: rgba(255, 255, 255, 0.6);
