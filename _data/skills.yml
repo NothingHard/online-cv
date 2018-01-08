@@ -1,9 +1,12 @@
 - skill:
-  name: R
+  name: R (data.table)
+  library: data.table, dplyr, ggplot2
   level: 95%
 - skill:
   name: Python
+  library: TensorFlow, Keras, Scikit-learn
   level: 87%
 - skill:
-  name: Tensorflow
-  level: 80%
+  name: C++
+  library:
+  level: 60%
