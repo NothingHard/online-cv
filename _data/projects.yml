@@ -1,5 +1,5 @@
 - intro:
-  description: "Selected projects"
+  #description: "Selected projects"
 
 - project:
   title: "Early Detection of Neurodegeneration"
