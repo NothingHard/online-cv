@@ -6,12 +6,18 @@
   link: "https://nothinghard.github.io/projects/1_2017-12-16-MRI_cmc"
   time: "Dec 2017"
   tag: "Research topic: jointly work with NTU Hospital"
-  tagline: "
-  <p> Detect early-stage neurodegeneration using a novel 3D convolutional neural networks
-  <p> Design a deeper bottleneck architecture like ResNet
-  <p> Adopt instance normalization for better adaptation across subjects instead of batch normalization
-  <p> Demonstrate the effectiveness to predict chronological age with MAE = 4.29, Correlation = 0.95 and R squared = 0.91
-  "
+  tagline: '<ul>
+  <li> Built a 3D convolutional neural network using brain MRI raw image to predict the chronological age
+  <li> Interpreted the difference between chronological age and brain-predicted age as the severity of neurodegeneration
+  <li> Diagnosed early-stage neurodegeneration with the help of
+  <li> Technical details:
+    <ul>
+      <li> Devised a <a href="https://arxiv.org/abs/1512.03385">bottleneck architecture</a> to ease the training of networks</li>
+      <li> Adopted the <a href="https://arxiv.org/pdf/1607.08022.pdf">instance normalization</a> for better adaptation across subjects</li>
+      <li> Achieved MAE = 4.29, Correlation = 0.95 and R squared = 0.91 for predicting chronological ages
+    </ul>
+  </ul>
+  '
 - project:
   title: "In-depth Study on Batch Normalization"
   link: "https://nothinghard.github.io/projects/1_2017-07-01-BN_cmc"
