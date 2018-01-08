@@ -5,14 +5,17 @@
   title: "Early Detection of Neurodegeneration"
   link: "https://nothinghard.github.io/projects/1_2017-12-16-MRI_cmc"
   time: "Dec 2017"
+  tag: "Research project: jointly work with NTU Hospital"
   tagline: "<p> detect early-stage neurodegeneration using 3D convolutional neural networks"
 - project:
   title: "In-depth Study on Batch Normalization"
   link: "https://nothinghard.github.io/projects/1_2017-07-01-BN_cmc"
   time: "Jul 2017"
+  tag: "Course project: Machine Learning and having it Deep and Structured (MLDS), NTU"
   tagline: "<p> investigate why batch normalization works so well in both theoretical and experimental viewpoints"
 - project:
   title: "Metabolic Pathway Analysis"
   link: "https://nothinghard.github.io/projects/1_2017-03-16-MSA_cmc"
   time: "Mar 2017"
+  tag: "Research project: jointly work with <a href='http://www.seas.ucla.edu/liao_lab/team.html'>Metabolic Engineering and Synthetic Biology Laboratory</a>, UCLA"
   tagline: "<p> apply machine learning in metabolic pathway analysis: explanation and prediction"
