@@ -15,7 +15,8 @@
       <li> Adopted the <a href="https://arxiv.org/pdf/1607.08022.pdf">instance normalization</a> for better adaptation across subjects</li>
       <li> Achieved MAE = 4.29, Correlation = 0.95 and R<sup>2</sup> = 0.91 for predicting chronological ages
     </ul>-->
-  <br>'
+  <hr>'
+
 - project:
   title: "In-depth Study on Batch Normalization"
   link: "https://nothinghard.github.io/projects/1_2017-07-01-BN_cmc"
@@ -25,14 +26,14 @@
   <p> - Investigated the mechanism of batch normalization in both theoretical and experimental aspects and 
   provided some possible explanations on why batch normalization works so well
   <p> - Won the 1st place in peer reviews and the 2nd place in the oral presentation voted by audience
-  <p> - Github repository: https://github.com/NothingHard/MLDS_final_2017
+  <p> - Github repository: <a href='https://github.com/NothingHard/MLDS_final_2017'></a>
    <!-- <p> - Verified the following claims made by authors
     <ul>
       <li>BN solved the issue of gradient vanishing (by visualizing magnitude of gradients)
       <li>BN helped regularize the weigths (by monitoring the growth of weights)
       <li>BN benefit gradient flow through network (by analyzing the distribution of singular values of layer’s Jacobian)
     </ul>-->
-  <br>"
+  <hr>"
 
 - project:
   title: "Metabolic Pathway Analysis"
@@ -43,4 +44,4 @@
   <p> - Analyzed how enzyme kinects influence metabolic pathway robustness and provided insights on how to systematically adjust 
   pathway parameters
   <p> - Applied machine learning techniques to recognize bottleneck reactions in a pathway and identify the effect is either positive or negative to robustness
-  <br>"
+  <hr>"
