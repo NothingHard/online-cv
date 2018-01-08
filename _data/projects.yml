@@ -7,14 +7,14 @@
   time: "Dec 2017"
   tag: "Research topic: jointly work with NTU Hospital"
   tagline: '
-  <li> Built a 3D convolutional neural network using brain MRI raw image to predict chronological ages
-  <li> Interpreted the difference between chronological age and brain-predicted age as the severity of neurodegeneration
-  <li> Diagnosed early-stage neurodegeneration or age-related cognitive decline with the help of the proposed model
+  <li> Built a 3D CNN using brain MRI raw image to predict chronological ages
+  <li> Interpreted the difference between chronological age and predicted age as the severity of brain aging
+  <li> Faciliated early detection of neurodegeneration or age-related cognitive decline
   <li> Technical details:
     <ul>
-      <li> Devised a <a href="https://arxiv.org/abs/1512.03385">bottleneck architecture</a> to ease the training of networks</li>
+      <li> Devised a bottleneck architecture to ease the training of networks</li>
       <li> Adopted the <a href="https://arxiv.org/pdf/1607.08022.pdf">instance normalization</a> for better adaptation across subjects</li>
-      <li> Achieved MAE = 4.29, Correlation = 0.95 and R-squared = 0.91 for predicting chronological ages
+      <li> Achieved MAE = 4.29, Correlation = 0.95 and R<sup>2</sup> = 0.91 for predicting chronological ages
     </ul>
   '
 - project:
