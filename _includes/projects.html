@@ -11,13 +11,13 @@
 
   {% for project in site.data.projects %}
     <div class="item">
-
+      <div class="meta">
       <span class="project-title"><a href="{{ project.link }}">{{ project.title }}</a></span>
       <div class="time">{{ project.time }}</div>
       {% if project.tagline %}
       - <span class="project-tagline">{{ project.tagline }}</span>
       {% endif %}
-
+      </div><!--//meta-->
     </div><!--//item-->
   {% endfor %}
 

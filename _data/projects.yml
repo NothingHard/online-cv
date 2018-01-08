@@ -12,7 +12,7 @@
   time: "Jul 2017"
   tagline: "<p> investigate why batch normalization works so well in both theoretical and experimental viewpoints"
 - project:
-  title: "Metabolic System Analysis"
+  title: "Metabolic Pathway Analysis"
   link: "https://nothinghard.github.io/projects/1_2017-03-16-MSA_cmc"
   time: "Mar 2017"
-  tagline: "<p> apply machine learning in analyzing metabolic system robustness: explanation and prediction"
+  tagline: "<p> apply machine learning in metabolic pathway analysis: explanation and prediction"
