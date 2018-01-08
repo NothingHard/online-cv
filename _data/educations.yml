@@ -1,10 +1,10 @@
 - education:
   degree: MS in Electrical Engineering
   university: National Taiwan University
-  location: Control and Decision Lab
+  location: "<li>Combinatorial Optimization</li><li>Monte Carlo Simulation Optimization</li>"
   time: 2013 - 2015
 - education:
   degree: BS in Electrical Engineering
   university: National Taiwan University
-  location: Optimization theory
+  location: "<li>Optimization Theory</li><li>Queueing Theory</li>"
   time: 2009 - 2013
