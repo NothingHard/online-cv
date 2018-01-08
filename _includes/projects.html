@@ -11,14 +11,19 @@
 
   {% for project in site.data.projects %}
     <div class="item">
+      <div class="meta">
+        <div class="upper-row">
+          <h3 class="project-title"><a href="{{ project.link }}">{{ project.title }}</a></h3>
+          <div class="time">{{ project.time }}</div>
+        </div><!--//upper-row-->
+      </div><!--//meta-->
 
-      <span class="project-title">
-      <a href="{{ project.link }}">{{ project.title }}</a>
-      <div class="time">{{ project.time }}</div>
-      </span>
+      <!--<span class="project-title"><a href="{{ project.link }}">{{ project.title }}</a></span>-->
       {% if project.tagline %}
       - <span class="project-tagline">{{ project.tagline }}</span>
       {% endif %}
+
+
 
     </div><!--//item-->
   {% endfor %}
