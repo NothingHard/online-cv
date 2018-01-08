@@ -13,8 +13,10 @@
       <div class="level-bar">
         <div class="level-bar-inner" data-level="{{ skill.level }}">
         </div>
+        {% if skill.library %}
+        <br>Library: {{skill.library}}
+        {% endif %}
       </div><!--//level-bar-->
-      <br>Frequently used libraries: {{skill.library}}
     </div><!--//item-->
     {% endfor %}
 

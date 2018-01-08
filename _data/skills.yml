@@ -1,5 +1,5 @@
 - skill:
-  name: R (data.table)
+  name: R
   library: data.table, dplyr, ggplot2
   level: 95%
 - skill:
