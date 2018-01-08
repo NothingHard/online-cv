@@ -9,12 +9,12 @@
   tagline: '
   <p> - Built a 3D CNN using brain MRI raw image to predict chronological ages and 
   the difference between chronological age and predicted age is quantified as the severity of neurodegeneration
-  <p> - Technical details:
+  <!--<p> - Technical details:
     <ul>
       <li> Devised a bottleneck architecture to ease the training of networks</li>
       <li> Adopted the <a href="https://arxiv.org/pdf/1607.08022.pdf">instance normalization</a> for better adaptation across subjects</li>
       <li> Achieved MAE = 4.29, Correlation = 0.95 and R<sup>2</sup> = 0.91 for predicting chronological ages
-    </ul>
+    </ul>-->
   '
 - project:
   title: "In-depth Study on Batch Normalization"
@@ -25,7 +25,7 @@
   <p> - Investigated the mechanism of batch normalization in both theoretical and experimental aspects and 
   provided some possible explanations on why batch normalization works so well
   <p> - Won the 1st place in peer reviews and the 2nd place in the oral presentation voted by audience
-  Github repository: https://github.com/NothingHard/MLDS_final_2017
+  <p> - Github repository: https://github.com/NothingHard/MLDS_final_2017
    <!-- <p> - Verified the following claims made by authors
     <ul>
       <li>BN solved the issue of gradient vanishing (by visualizing magnitude of gradients)
@@ -38,5 +38,10 @@
   title: "Metabolic Pathway Analysis"
   link: "https://nothinghard.github.io/projects/1_2017-03-16-MSA_cmc"
   time: "Mar 2017"
-  tag: "Research topic: jointly work with <a href='http://www.seas.ucla.edu/liao_lab/team.html'>Metabolic Engineering and Synthetic Biology Lab</a>, UCLA"
-  tagline: "<p> apply machine learning in metabolic pathway analysis: explanation and prediction"
+  tag: "Research topic: jointly work with Metabolic Engineering and Synthetic Biology Lab, UCLA"
+  tagline: "
+  <p> - Analyzed how enzyme kinects influence metabolic pathway robustness and also provided insights on how to systematically adjust 
+  pathway parameters from the view of machine learning researchers
+  <p> - Applied ML techniques to recognize bottleneck reactions in a pathway and identify the effect is either positive or negative to robustness
+  <p> - Collaborated with <a href='http://www.seas.ucla.edu/liao_lab/team.html'>Metabolic Engineering and Synthetic Biology Laboratory</a> lead by Prof. James C. Liao, UCLA
+  "
