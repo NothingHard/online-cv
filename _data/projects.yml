@@ -15,7 +15,7 @@
       <li> Adopted the <a href="https://arxiv.org/pdf/1607.08022.pdf">instance normalization</a> for better adaptation across subjects</li>
       <li> Achieved MAE = 4.29, Correlation = 0.95 and R<sup>2</sup> = 0.91 for predicting chronological ages
     </ul>-->
-  '
+  <br>'
 - project:
   title: "In-depth Study on Batch Normalization"
   link: "https://nothinghard.github.io/projects/1_2017-07-01-BN_cmc"
@@ -32,7 +32,7 @@
       <li>BN helped regularize the weigths (by monitoring the growth of weights)
       <li>BN benefit gradient flow through network (by analyzing the distribution of singular values of layer’s Jacobian)
     </ul>-->
-  "
+  <br>"
 
 - project:
   title: "Metabolic Pathway Analysis"
@@ -40,8 +40,7 @@
   time: "Mar 2017"
   tag: "Research topic: jointly work with Metabolic Engineering and Synthetic Biology Lab, UCLA"
   tagline: "
-  <p> - Analyzed how enzyme kinects influence metabolic pathway robustness and also provided insights on how to systematically adjust 
-  pathway parameters from the view of machine learning researchers
-  <p> - Applied ML techniques to recognize bottleneck reactions in a pathway and identify the effect is either positive or negative to robustness
-  <p> - Collaborated with <a href='http://www.seas.ucla.edu/liao_lab/team.html'>Metabolic Engineering and Synthetic Biology Laboratory</a> lead by Prof. James C. Liao, UCLA
-  "
+  <p> - Analyzed how enzyme kinects influence metabolic pathway robustness and provided insights on how to systematically adjust 
+  pathway parameters
+  <p> - Applied machine learning techniques to recognize bottleneck reactions in a pathway and identify the effect is either positive or negative to robustness
+  <br>"
