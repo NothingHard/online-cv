@@ -24,18 +24,14 @@
   tagline: "
   <p> - Investigated the mechanism of batch normalization in both theoretical and experimental aspects and 
   provided some possible explanations on why batch normalization works so well
-  <p> - Verified the following claims made by authors
+  <p> - Won the 1st place in peer reviews and the 2nd place in the oral presentation voted by audience
+  Github repository: https://github.com/NothingHard/MLDS_final_2017
+   <!-- <p> - Verified the following claims made by authors
     <ul>
       <li>BN solved the issue of gradient vanishing (by visualizing magnitude of gradients)
       <li>BN helped regularize the weigths (by monitoring the growth of weights)
       <li>BN benefit gradient flow through network (by analyzing the distribution of singular values of layer’s Jacobian)
-    </ul>
-  <p> - Honors:
-    <ul>
-      <li> The 1st place in peer reviews (overall: 14.6/15, novelty bonus: 1.6/2)
-      <li> The 2nd place in the oral presentation voted by audience
-    </ul>
-  Github repository: https://github.com/NothingHard/MLDS_final_2017
+    </ul>-->
   "
 
 - project:
