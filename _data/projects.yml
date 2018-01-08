@@ -5,8 +5,12 @@
   title: "Early Detection of Neurodegeneration"
   link: "https://nothinghard.github.io/projects/1_2017-12-16-MRI_cmc"
   time: "Dec 2017"
-  tag: "Research topic (jointly work with NTU Hospital)"
-  tagline: "<p> detect early-stage neurodegeneration using 3D convolutional neural networks"
+  tag: "Research topic: jointly work with NTU Hospital"
+  tagline: "
+  <li> Detect early-stage neurodegeneration using a novel 3D convolutional neural networks
+  <li> Consider (1) the deeper bottleneck architecture like ResNet, and (2) instance normalization in 3D CNN for better adaptation across subjects
+  <li> Demonstrate the effectiveness to predict chronological age over 558 healthy individuals with MAE = 4.29, Correlation = 0.95 and R squared = 0.91
+  "
 - project:
   title: "In-depth Study on Batch Normalization"
   link: "https://nothinghard.github.io/projects/1_2017-07-01-BN_cmc"
@@ -17,5 +21,5 @@
   title: "Metabolic Pathway Analysis"
   link: "https://nothinghard.github.io/projects/1_2017-03-16-MSA_cmc"
   time: "Mar 2017"
-  tag: "Research topic (jointly work with <a href='http://www.seas.ucla.edu/liao_lab/team.html'>Metabolic Engineering and Synthetic Biology Lab</a>, UCLA)"
+  tag: "Research topic: jointly work with <a href='http://www.seas.ucla.edu/liao_lab/team.html'>Metabolic Engineering and Synthetic Biology Lab</a>, UCLA"
   tagline: "<p> apply machine learning in metabolic pathway analysis: explanation and prediction"
