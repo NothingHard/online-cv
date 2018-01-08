@@ -7,10 +7,9 @@
   time: "Dec 2017"
   tag: "Research topic: jointly work with NTU Hospital"
   tagline: '
-  <li> Built a 3D CNN using brain MRI raw image to predict chronological ages
-  <li> Interpreted the difference between chronological age and predicted age as the severity of brain aging
-  <li> Faciliated early detection of neurodegeneration or age-related cognitive decline
-  <li> Technical details:
+  <p> Built a 3D CNN using brain MRI raw image to predict chronological ages and 
+  the difference between chronological age and predicted age is quantified as the severity of neurodegeneration
+  <p> Technical details:
     <ul>
       <li> Devised a bottleneck architecture to ease the training of networks</li>
       <li> Adopted the <a href="https://arxiv.org/pdf/1607.08022.pdf">instance normalization</a> for better adaptation across subjects</li>
