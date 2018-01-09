@@ -208,7 +208,7 @@ p {
   margin-bottom: 30px;
 }
 .main-wrapper .upper-row {
-  position: relative;
+  position: absolute;
   overflow: hidden;
   margin-bottom: 2px;
 }
