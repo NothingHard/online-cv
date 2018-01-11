@@ -3,26 +3,26 @@
   time: 2015 - Present
   company: Data Insight and Research Lab, Academia Sinica
   details: "
-  <ol style='margin-left:0px'>
+  <ol style='margin-left:-5px'>
   <li type='A'> Designed a novel algorithm to empower neural networks to possess multi-fidelity approximations at inference time without compromising performance significantly
     <ul>
     <li> Improved 50% accuracy with limited (20%) computation cost allowed on CIFAR-100
     <li> Keywords: deep learning, computation efficiency, fast computation
     </ul>
-    <hr style='margin-top:0px;margin-bottom:0px'>
+    <hr style='margin-top:5px;margin-bottom:5px'>
   <li type='A'> Investigated the relationships between crimes and various geographic, demographic and socioeconomic factors
     <ul>
     <li> Present to the Taipei City officials for future government policy decision making
     <li> Keywords: machine learning, data science in criminology, factor analysis
     </ul>
-    <hr style='margin-top:0px;margin-bottom:0px'>
+    <hr style='margin-top:5px;margin-bottom:5px'>
   <li type='A'> Developed a methodology to assess the performance of commerical-level VR head-mounted display devices and 
   quantify the timing and positioning accuracy
     <ul>
     <li> Accepted as full paper by 2016 ACM multimedia
     <li> Keywords: quality of experience, performance quantification, virtual reality
     </ul>
-    <hr style='margin-top:0px;margin-bottom:0px'>
+    <hr style='margin-top:5px;margin-bottom:5px'>
   <li type='A'> Other machine learning or deep learning projects
     <ul>
     <li> churn prediction in telecom industry
