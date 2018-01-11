@@ -3,14 +3,24 @@
   time: 2015 - Present
   company: Data Insight and Research Lab, Academia Sinica
   details: "
-  <p>- 
-  <p>- 
+  <p>- Deep Learning: designed a novel algorithm to empower neural networks to possess multi-fidelity approximations at inference time,
+   outperforming the existing approach by 50% of accuracy on CIFAR-100 when only 20% computation costs are allowed
+  <p>- Data Science: investigated the relationships between crimes and various geographic, demographic and socioeconomic factors; 
+  the result is presented to the Taipei City officials for future government policy decision making
+  <p>- Quality of Experience: developed a methodology to assess the performance of commerical-level VR head-mounted display devices and 
+  quantify the timing and positioning accuracy; accepted as full paper by 2016 ACM multimedia
+  <p>- Machine or Deep learning projects: (i) churn prediction in telecom industry (ii) automatic trader in online gambling  
+  (iii) metabolic pathway analysis (iv) crime factor analysis
   "
 - experience:
   role: R&D intern
   time: 2014 - 2015
   company: Microsoft, Taiwan
   details: "
-  <p>- 
-  <p>- 
-  "
+  <p>- Project manager/engineer: implemented and coordinated a very first IoT demonstration of 
+  applying Microsoft Azure service in the smart home scenario,
+  including gathering data from IoT devices to Azure Event Hub,
+  detecting abnormal behaviors by Azure Streaming Analytics and Azure Machine Learning, and
+  pushing emergence notifications to end devices by Azure Notification Hub.
+  <p>- Engineer: improved the above IoT demonstration by incorporating Microsoft Voice Assistant, Cortana, into the scenario.
+  For example, control the on/off of the Philips Hue, open the door, or play a song through Cortana."
