@@ -3,23 +3,23 @@
   time: 2015 - Present
   company: Data Insight and Research Lab, Academia Sinica
   details: "
-  <li> Designed a novel algorithm to empower neural networks to possess multi-fidelity approximations at inference time without compromising performance significantly
+  <p>- Designed a novel algorithm to empower neural networks to possess multi-fidelity approximations at inference time without compromising performance significantly
     <ul>
     <li> Improved 50% accuracy with limited (20%) computation cost allowed on CIFAR-100
     <li> Keywords: deep learning, convolutional neural network, computation efficiency, fast computation
     </ul>
-  <li> Investigated the relationships between crimes and various geographic, demographic and socioeconomic factors
+  <p>- Investigated the relationships between crimes and various geographic, demographic and socioeconomic factors
     <ul>
     <li> Had presented to the Taipei City officials for future government policy decision making
     <li> Keywords: machine learning, data science in criminology, factor analysis
     </ul>
-  <li> Developed a methodology to assess the performance of commerical-level VR head-mounted display devices and 
+  <p>- Developed a methodology to assess the performance of commerical-level VR head-mounted display devices and 
   quantify the timing and positioning accuracy
     <ul>
     <li> Accepted as full paper by 2016 ACM multimedia
     <li> Keywords: quality of experience, performance quantification, virtual reality
     </ul>
-  <li> Other machine learning or deep learning projects
+  <p>- Other machine learning or deep learning projects
     <ul>
     <li type='i'> churn prediction in telecom industry
     <li type='i'> automatic trader in online gambling
@@ -31,7 +31,7 @@
   time: 2014 - 2015
   company: Microsoft, Taiwan
   details: "
-  <li> Project manager/engineer: implemented and coordinated a very first IoT demonstration of 
+  <p>- Project manager/engineer: implemented and coordinated a very first IoT demonstration of 
   applying Microsoft Azure service in the smart home scenario
     <ul>
     <li type='i'> gathering data from IoT devices to Azure Event Hub
@@ -39,5 +39,5 @@
     <li type='i'> pushing emergence notifications to end devices by Azure Notification Hub
     </ul>
   
-  <li> Engineer: improved the above IoT demonstration by incorporating Microsoft Voice Assistant, Cortana, into the scenario.
+  <p>- Engineer: improved the above IoT demonstration by incorporating Microsoft Voice Assistant, Cortana, into the scenario.
   For example, control the on/off of the Philips Hue, open the door, or play a song through Cortana."
