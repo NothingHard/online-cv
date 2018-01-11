@@ -36,13 +36,16 @@
   time: 2014 - 2015
   company: Microsoft, Taiwan
   details: "
-  <li> Project manager/engineer: implemented and coordinated a very first IoT demonstration of 
+  <ol style='margin-left:-5px'>
+  <li type='A'> Project manager/engineer: implemented and coordinated a very first IoT demonstration of 
   applying Microsoft Azure service in the smart home scenario
     <ul>
-    <li type='i'> gathering data from IoT devices to Azure Event Hub
-    <li type='i'> detecting abnormal behaviors by Azure Streaming Analytics and Azure Machine Learning
-    <li type='i'> pushing emergence notifications to end devices by Azure Notification Hub
+    <li> gathering data from IoT devices to Azure Event Hub
+    <li> detecting abnormal behaviors by Azure Streaming Analytics and Azure Machine Learning
+    <li> pushing emergence notifications to end devices by Azure Notification Hub
     </ul>
   
-  <li> Engineer: improved the above IoT demonstration by incorporating Microsoft Voice Assistant, Cortana, into the scenario.
-  For example, control the on/off of the Philips Hue, open the door, or play a song through Cortana."
+  <li type='A'> Engineer: improved the above IoT demonstration by incorporating Microsoft Voice Assistant, Cortana, into the scenario.
+  For example, control the on/off of the Philips Hue, open the door, or play a song through Cortana.
+  </ol>
+  "
