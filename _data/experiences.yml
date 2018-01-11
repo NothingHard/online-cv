@@ -4,27 +4,27 @@
   company: Data Insight and Research Lab, Academia Sinica
   details: "
   <ol>
-  <li type='I'> Designed a novel algorithm to empower neural networks to possess multi-fidelity approximations at inference time without compromising performance significantly
+  <li type='A'> Designed a novel algorithm to empower neural networks to possess multi-fidelity approximations at inference time without compromising performance significantly
     <ul>
     <li> Improved 50% accuracy with limited (20%) computation cost allowed on CIFAR-100
     <li> Keywords: deep learning, convolutional neural network, computation efficiency, fast computation
     </ul>
-  <li type='I'> Investigated the relationships between crimes and various geographic, demographic and socioeconomic factors
+  <li type='A'> Investigated the relationships between crimes and various geographic, demographic and socioeconomic factors
     <ul>
-    <li> Had presented to the Taipei City officials for future government policy decision making
+    <li> Present to the Taipei City officials for future government policy decision making
     <li> Keywords: machine learning, data science in criminology, factor analysis
     </ul>
-  <li type='I'> Developed a methodology to assess the performance of commerical-level VR head-mounted display devices and 
+  <li type='A'> Developed a methodology to assess the performance of commerical-level VR head-mounted display devices and 
   quantify the timing and positioning accuracy
     <ul>
     <li> Accepted as full paper by 2016 ACM multimedia
     <li> Keywords: quality of experience, performance quantification, virtual reality
     </ul>
-  <li type='I'> Other machine learning or deep learning projects
+  <li type='A'> Other machine learning or deep learning projects
     <ul>
-    <li type='i'> churn prediction in telecom industry
-    <li type='i'> automatic trader in online gambling
-    <li type='i'> metabolic pathway analysis
+    <li> churn prediction in telecom industry
+    <li> automatic trader in online gambling
+    <li> metabolic pathway analysis
     </ul>
   </ol>
   "
