@@ -12,7 +12,7 @@
     <hr style='margin-top:8px;margin-bottom:8px'>
   <li type='A'> Investigated the relationships between crimes and various geographic, demographic and socioeconomic factors
     <ul>
-    <li> Present to the Taipei City officials for future government policy decision making
+    <li> Presented to the Taipei City officials for future government policy decision making
     <li> Keywords: machine learning, data science in criminology, factor analysis
     </ul>
     <hr style='margin-top:8px;margin-bottom:8px'>
@@ -37,15 +37,12 @@
   company: Microsoft, Taiwan
   details: "
   <ol style='margin-left:-8px'>
-  <li type='A'> Project manager/engineer: implemented and coordinated a very first IoT demonstration of 
+  <li type='A'> Implemented and coordinated a very first IoT demonstration of 
   applying Microsoft Azure service in the smart home scenario
     <ul>
-    <li> gathering data from IoT devices to Azure Event Hub
-    <li> detecting abnormal behaviors by Azure Streaming Analytics and Azure Machine Learning
-    <li> pushing emergence notifications to end devices by Azure Notification Hub
-    </ul>
-    <hr style='margin-top:8px;margin-bottom:8px'>
-  <li type='A'> Engineer: improved the above IoT demonstration by incorporating Microsoft Voice Assistant, Cortana, into the scenario.
-  For example, control the on/off of the Philips Hue, open the door, or play a song through Cortana.
+    <li> Gathered data from IoT devices to Azure Event Hub
+    <li> Detected abnormal behaviors by Azure Streaming Analytics and Machine Learning
+    <li> Pushed emergence notifications to end devices by Azure Notification Hub
+    <li> Incorporated Microsoft Voice Assistant, Cortana, into the above IoT demonstration
   </ol>
   "
