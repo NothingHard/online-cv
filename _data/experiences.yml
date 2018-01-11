@@ -7,19 +7,22 @@
   <li type='A'> Designed a novel algorithm to empower neural networks to possess multi-fidelity approximations at inference time without compromising performance significantly
     <ul>
     <li> Improved 50% accuracy with limited (20%) computation cost allowed on CIFAR-100
-    <li> Keywords: deep learning, convolutional neural network, computation efficiency, fast computation
+    <li> Keywords: deep learning, computation efficiency, fast computation
     </ul>
+    <hr>
   <li type='A'> Investigated the relationships between crimes and various geographic, demographic and socioeconomic factors
     <ul>
     <li> Present to the Taipei City officials for future government policy decision making
     <li> Keywords: machine learning, data science in criminology, factor analysis
     </ul>
+    <hr>
   <li type='A'> Developed a methodology to assess the performance of commerical-level VR head-mounted display devices and 
   quantify the timing and positioning accuracy
     <ul>
     <li> Accepted as full paper by 2016 ACM multimedia
     <li> Keywords: quality of experience, performance quantification, virtual reality
     </ul>
+    <hr>
   <li type='A'> Other machine learning or deep learning projects
     <ul>
     <li> churn prediction in telecom industry
