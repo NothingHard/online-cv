@@ -3,14 +3,28 @@
   time: 2015 - Present
   company: Data Insight and Research Lab, Academia Sinica
   details: "
-  <li> Deep Learning: designed a novel algorithm to empower neural networks to possess multi-fidelity approximations at inference time,
-   outperforming the existing approach by 50% of accuracy on CIFAR-100 when only 20% computation costs are allowed
-  <li> Data Science: investigated the relationships between crimes and various geographic, demographic and socioeconomic factors; 
-  the result is presented to the Taipei City officials for future government policy decision making
-  <li> Quality of Experience: developed a methodology to assess the performance of commerical-level VR head-mounted display devices and 
-  quantify the timing and positioning accuracy; accepted as full paper by 2016 ACM multimedia
-  <li> Machine or Deep learning projects: (i) churn prediction in telecom industry (ii) automatic trader in online gambling  
-  (iii) metabolic pathway analysis (iv) crime factor analysis
+  <li> Designed a novel algorithm to empower neural networks to possess multi-fidelity approximations at inference time without compromising performance significantly
+    <ul>
+    <li> Improved 50% accuracy with limited (20%) computation cost allowed on CIFAR-100
+    <li> Keywords: deep learning, convolutional neural network, computation efficiency, fast computation
+    <ul>
+  <li> Investigated the relationships between crimes and various geographic, demographic and socioeconomic factors
+    <ul>
+    <li> Had presented to the Taipei City officials for future government policy decision making
+    <li> Keywords: machine learning, data science in criminology, factor analysis
+    <ul>
+  <li> Developed a methodology to assess the performance of commerical-level VR head-mounted display devices and 
+  quantify the timing and positioning accuracy
+    <ul>
+    <li> Accepted as full paper by 2016 ACM multimedia
+    <li> Keywords: quality of experience, performance quantification, virtual reality
+    <ul>
+  <li> Other machine learning or deep learning projects
+    <ul>
+    <li type='i'> churn prediction in telecom industry
+    <li type='i'> automatic trader in online gambling
+    <li type='i'> metabolic pathway analysis
+    <ul>
   "
 - experience:
   role: R&D intern
@@ -18,9 +32,12 @@
   company: Microsoft, Taiwan
   details: "
   <li> Project manager/engineer: implemented and coordinated a very first IoT demonstration of 
-  applying Microsoft Azure service in the smart home scenario,
-  including gathering data from IoT devices to Azure Event Hub,
-  detecting abnormal behaviors by Azure Streaming Analytics and Azure Machine Learning, and
-  pushing emergence notifications to end devices by Azure Notification Hub.
+  applying Microsoft Azure service in the smart home scenario
+    <ul>
+    <li type='i'> gathering data from IoT devices to Azure Event Hub
+    <li type='i'> detecting abnormal behaviors by Azure Streaming Analytics and Azure Machine Learning
+    <li type='i'> pushing emergence notifications to end devices by Azure Notification Hub
+    <ul>
+  
   <li> Engineer: improved the above IoT demonstration by incorporating Microsoft Voice Assistant, Cortana, into the scenario.
   For example, control the on/off of the Philips Hue, open the door, or play a song through Cortana."
