@@ -3,16 +3,16 @@
   link: "https://nothinghard.github.io/projects/1_2017-12-16-MRI_cmc"
   time: "Dec 2017"
   tag: "Research topic: jointly work with NTU Hospital"
-  tagline: '
+  tagline: "
   <p> - Built a 3D CNN using brain MRI raw image to predict chronological ages and 
   the difference between chronological age and predicted age is quantified as the severity of neurodegeneration
   <!--<p> - Technical details:
     <ul>
       <li> Devised a bottleneck architecture to ease the training of networks</li>
-      <li> Adopted the <a href="https://arxiv.org/pdf/1607.08022.pdf">instance normalization</a> for better adaptation across subjects</li>
+      <li> Adopted the <a href='https://arxiv.org/pdf/1607.08022.pdf'>instance normalization</a> for better adaptation across subjects</li>
       <li> Achieved MAE = 4.29, Correlation = 0.95 and R<sup>2</sup> = 0.91 for predicting chronological ages
     </ul>-->
-  <hr>'
+  <hr style='margin-top:8px;margin-bottom:8px'>"
 
 - project:
   title: "In-depth Study on Batch Normalization"
@@ -30,7 +30,8 @@
       <li>BN helped regularize the weigths (by monitoring the growth of weights)
       <li>BN benefit gradient flow through network (by analyzing the distribution of singular values of layer’s Jacobian)
     </ul>-->
-  <hr>"
+  <hr style='margin-top:8px;margin-bottom:8px'>
+  "
 
 - project:
   title: "Metabolic Pathway Analysis"
@@ -41,4 +42,5 @@
   <p> - Analyzed how enzyme kinects influence metabolic pathway robustness and provided insights on how to systematically adjust 
   pathway parameters
   <p> - Applied machine learning techniques to recognize bottleneck reactions in a pathway and identify the effect is either positive or negative to robustness
-  <hr>"
+  <hr style='margin-top:8px;margin-bottom:8px'>
+  "
