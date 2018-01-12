@@ -21,10 +21,12 @@
   tag: "Course project: Machine Learning and having it Deep and Structured (MLDS), NTU"
   tagline: "
   <p> - Investigated the mechanism of batch normalization in both theoretical and experimental aspects and 
-  provided some possible explanations on why batch normalization works so well
+  provided some possible explanations on why batch normalization works so well 
+  (<a href='https://github.com/NothingHard/MLDS_final_2017'>github</a>)
+  <!--
   <p> - Won the 1st place in peer reviews and the 2nd place in the oral presentation voted by audience and 
   the github repository: <a href='https://github.com/NothingHard/MLDS_final_2017'>why batch normalization works so well</a>
-   <!-- <p> - Verified the following claims made by authors
+    <p> - Verified the following claims made by authors
     <ul>
       <li>BN solved the issue of gradient vanishing (by visualizing magnitude of gradients)
       <li>BN helped regularize the weigths (by monitoring the growth of weights)
@@ -41,6 +43,6 @@
   tagline: "
   <p> - Analyzed how enzyme kinects influence metabolic pathway robustness and provided insights on how to systematically adjust 
   pathway parameters
-  <p> - Applied machine learning techniques to recognize bottleneck reactions in a pathway and identify the effect is either positive or negative to robustness
-  <hr style='margin-top:8px;margin-bottom:8px'>
+  <!--<p> - Applied machine learning techniques to recognize bottleneck reactions in a pathway and identify the effect is either positive or negative to robustness
+  <hr style='margin-top:8px;margin-bottom:8px'>-->
   "

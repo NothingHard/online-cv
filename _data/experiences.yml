@@ -6,28 +6,46 @@
   <ol style='margin-left:-8px'>
   <li type='A'> Designed a novel algorithm to empower neural networks to possess multi-fidelity approximations at inference time without compromising performance significantly
     <ul>
-    <li> Improved 50% accuracy with limited (20%) computation cost allowed on CIFAR-100
-    <li> Keywords: deep learning, computation efficiency, fast computation
+      <li> Improved 50% accuracy with limited (20%) computation cost allowed on CIFAR-100
+      <li> Keywords: deep learning, computation efficiency, fast computation
     </ul>
     <hr style='margin-top:8px;margin-bottom:8px'>
   <li type='A'> Investigated the relationships between crimes and various geographic, demographic and socioeconomic factors
     <ul>
-    <li> Presented to the Taipei City officials for future government policy decision making
-    <li> Keywords: machine learning, data science in criminology, factor analysis
+      <li> Accepted as full paper in 2017 (9th) Asian Conference on Intelligent Information and Database Systems 
+      (<a href='https://nothinghard.github.io/files/ACIIDS17_cmc.pdf'>link</a>)
+      <li> Keywords: machine learning, data science in criminology, factor analysis
     </ul>
     <hr style='margin-top:8px;margin-bottom:8px'>
-  <li type='A'> Developed a methodology to assess the performance of commerical-level VR head-mounted display devices and 
-  quantify the timing and positioning accuracy
+  <li type='A'> Developed a methodology to quantify the performance of commercial-level VR head-mounted display devices 
+  in timing and positioning aspects
     <ul>
-    <li> Accepted as full paper by 2016 ACM multimedia
-    <li> Keywords: quality of experience, performance quantification, virtual reality
+      <li> Accepted as full paper by 2016 ACM multimedia 
+      (<a href='ACM_MM16_cmc.pdf'>link</a>)
+      <li> Keywords: quality of experience, performance quantification, virtual reality
     </ul>
     <hr style='margin-top:8px;margin-bottom:8px'>
-  <li type='A'> Other machine learning or deep learning projects
+  <li type='A'> Addressed real-world problems by machine learning and deep learning:
     <ul>
-    <li> churn prediction in telecom industry
-    <li> automatic trader in online gambling
-    <li> metabolic pathway analysis
+    <li type='1'> Churn prediction in subscription-based telecom services, improving the existing solution from 0.76 to 0.81 in AUC
+    <ul>
+      <li> Dataset: sampled 3M+ users in recent 2.5 years
+      <li> Improved the existing solution from 0.76 to 0.81 in AUC
+      <li> Correctly captured extra 10% churns among top 20% users
+      <li> Keywords: data mining, feature engineering, gradient boosting tree
+    </ul>
+    <li type='1'> Automatic adjustment of real-time pricing in online games
+    <ul>
+      <li> Dataset: 2000+ games, average 3000 users per game
+      <li> Compared to professional bidders, the average MAE of our model on prices is less than 4%
+      <li> 90% of adjustments are consistent in the direction, increase or decrease
+      <li> Keywords: recurrent neural network, multivariate time series, information retrieval
+    </ul>
+    <li type='1'> Metabolic pathway robustness analysis from the machine learning perspective
+    <ul>
+      <li> Provided insights on adjusting system parameters for best system robustness
+      <li> Recognized bottleneck reactions in a pathway and identified the effects are positive or negative
+      <li> Keywords: machine learning, perturbation analysis
     </ul>
   </ol>
   "
@@ -37,12 +55,12 @@
   company: Microsoft, Taiwan
   details: "
   <ol style='margin-left:-8px'>
-  <li type='A'> Implemented and coordinated a very first IoT demonstration of 
-  applying Microsoft Azure service in the smart home scenario
+  <li> Implemented and coordinated a very first IoT demonstration of applying Microsoft Azure service in the smart home scenario
     <ul>
-    <li> Gathered data from IoT devices to Azure Event Hub
-    <li> Detected abnormal behaviors by Azure Streaming Analytics and Machine Learning
-    <li> Pushed emergence notifications to end devices by Azure Notification Hub
-    <li> Incorporated Microsoft Voice Assistant, Cortana, into the above IoT demonstration
+      <li> Gathered data from IoT devices to Azure Event Hub
+      <li> Detected abnormal behaviors by Azure Streaming Analytics and Machine Learning
+      <li> Pushed emergence notifications to end devices by Azure Notification Hub
+      <li> Incorporated Microsoft Voice Assistant, Cortana, into the above IoT demonstration
+    </ul>
   </ol>
   "
