@@ -1,6 +1,6 @@
 # Site Settings
 title: Chun Ming Chang
-url: 'http://nothinghard.github.io'
+url: 'http://twcmchang.github.io'
 baseurl: '/online-cv' #change it according to your repository name
 
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
@@ -20,7 +20,7 @@ also a research assistant in
 <a href="http://dirl.iis.sinica.edu.tw/">Data Insight Research Lab</a> of Academia Sinica.
 
 <p>My research focuses on Deep Learning and its applications, especially in clinical diagnosis and medical imageology.
-To know more about my research, please find my <a href="https://nothinghard.github.io/publications/">publications</a> and <a href="https://nothinghard.github.io/projects/">projects</a>.
+To know more about my research, please find my <a href="https://twcmchang.github.io/publications/">publications</a> and <a href="https://twcmchang.github.io/projects/">projects</a>.
 
 <p>Recently, I am honored to be one of the invited speakers in <a href="http://ds.sinica.edu.tw/ai-month-2017/">AI Month 2017</a> and 
 <a href="http://ds.sinica.edu.tw/category/2017-ml-month/">ML Month 2017</a>, Academia Sinica. 
@@ -31,9 +31,9 @@ in <a href="http://foundation.datasci.tw/">Data Science Conference in Taiwan</a>
 #sidebar links
 email: d05921027@ntu.edu.tw
 phone: +886 911 093 825
-website: nothinghard.github.io #do not add http://
+website: twcmchang.github.io #do not add http://
 linkedin: chun-ming-chang
-github: nothinghard
+github: twcmchang
 twitter: 'twcmchang'
 #Update all the sections by editing the files inside _data folder.
 

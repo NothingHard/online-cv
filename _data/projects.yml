@@ -1,6 +1,6 @@
 - project:
   title: "Early Detection of Neurodegeneration"
-  link: "https://nothinghard.github.io/projects/1_2017-12-16-MRI_cmc"
+  link: "https://twcmchang.github.io/projects/1_2017-12-16-MRI_cmc"
   time: "Dec 2017"
   tag: "Research topic: jointly work with NTU Hospital"
   tagline: "
@@ -16,16 +16,16 @@
 
 - project:
   title: "In-depth Study on Batch Normalization"
-  link: "https://nothinghard.github.io/batch_normalization/"
+  link: "https://twcmchang.github.io/batch_normalization/"
   time: "Jul 2017"
   tag: "Course project: Machine Learning and having it Deep and Structured (MLDS), NTU"
   tagline: "
   <p> - Investigated the mechanism of batch normalization in both theoretical and experimental aspects and 
   provided some possible explanations on why batch normalization works so well 
-  (<a href='https://github.com/NothingHard/MLDS_final_2017'>github</a>)
+  (<a href='https://github.com/twcmchang/MLDS_final_2017'>github</a>)
   <!--
   <p> - Won the 1st place in peer reviews and the 2nd place in the oral presentation voted by audience and 
-  the github repository: <a href='https://github.com/NothingHard/MLDS_final_2017'>why batch normalization works so well</a>
+  the github repository: <a href='https://github.com/twcmchang/MLDS_final_2017'>why batch normalization works so well</a>
     <p> - Verified the following claims made by authors
     <ul>
       <li>BN solved the issue of gradient vanishing (by visualizing magnitude of gradients)
@@ -37,7 +37,7 @@
 
 - project:
   title: "Metabolic Pathway Analysis"
-  link: "https://nothinghard.github.io/projects/1_2017-03-16-MSA_cmc"
+  link: "https://twcmchang.github.io/projects/1_2017-03-16-MSA_cmc"
   time: "Mar 2017"
   tag: "Research topic: jointly work with Metabolic Engineering and Synthetic Biology Lab, UCLA"
   tagline: "
