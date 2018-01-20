@@ -3,20 +3,21 @@
   time: 2015 - Present
   company: Data Insight and Research Lab, Academia Sinica
   details: "
-  <ol style='margin-left:-8px'>
-  <li type='A'> Designed a novel algorithm to empower a neural network having multi-fidelity approximations, 
+  <ol style='margin-left:-4px'>
+  <li type='A'> Innovated an algorithm to empower a neural network having multi-fidelity approximations, 
   achieving 60-65% accuracy while using 20-100% computation cost on CIFAR-100
     <hr style='margin-top:8px;margin-bottom:8px'>
   <li type='A'> Investigated the relationships between crimes and various geographic, demographic and socioeconomic factors,
   accepted in 2017 ACIIDS (<a href='https://twcmchang.github.io/files/ACIIDS17_cmc.pdf'>full paper</a>)
     <hr style='margin-top:8px;margin-bottom:8px'>
-  <li type='A'> Developed a methodology to quantify performance of commercial-level VR head-mounted display devices 
-  in timing and positioning aspects, accepted by 2016 ACM multimedia (<a href='https://twcmchang.github.io/files/ACM_MM16_cmc.pdf'>full paper</a>)
+  <li type='A'> Proposed a methodology to quantify performance of commercial-level VR head-mounted display devices 
+  in timing and positioning, accepted by 2016 ACM multimedia (<a href='https://twcmchang.github.io/files/ACM_MM16_cmc.pdf'>full paper</a>)
     <hr style='margin-top:8px;margin-bottom:8px'>
   <li type='A'> Addressed real-world problems by machine learning and deep learning:
     <ul>
-    <li type='1'> Churn prediction in subscription-based telecom services, saving 50% budgets on retaining customers and improving the existing solution from 0.76 to 0.81 in AUC
-    <li type='1'> Real-time pricing in online games, achieving average MAE less than 4% compared to professional bidders
+    <li type='1'> Churn prediction in subscription-based telecom services, 
+    boosting AUC from 0.76 to 0.81 and saving 50% budgets on retaining customers
+    <li type='1'> Real-time pricing in online games, achieving average MAE less than 4% in comparison with professional bidders
     </ul>
   </ol>
   "
@@ -25,7 +26,8 @@
   time: 2014 - 2015
   company: Microsoft, Taiwan
   details: "
-  <ol style='margin-left:-8px'>
-  <li type='A'> Implemented and coordinated a very first IoT demonstration of applying Microsoft Azure service in the smart home scenario
-  <li type='A'> Developed cross-platform (Windows, Andriod, iOS) applications by Xamarin
+  <ol style='margin-left:-4px'>
+    <li type='A'> Implemented and coordinated a very first IoT demonstration of applying Microsoft Azure service in the smart home scenario
+    <li type='A'> Developed cross-platform (Windows, Andriod, iOS) applications by Xamarin
+  </ol>
   "
