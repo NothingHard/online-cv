@@ -6,13 +6,10 @@
   <ol style='margin-left:-4px'>
   <li type='A'> Innovated an algorithm to empower a neural network having multi-fidelity approximations, 
   achieving 60-65% accuracy while using 20-100% computation cost on CIFAR-100
-    <hr style='margin-top:8px;margin-bottom:8px'>
   <li type='A'> Investigated the relationships between crimes and various geographic, demographic and socioeconomic factors,
   accepted in 2017 ACIIDS (<a href='https://twcmchang.github.io/files/ACIIDS17_cmc.pdf'>full paper</a>)
-    <hr style='margin-top:8px;margin-bottom:8px'>
   <li type='A'> Proposed a methodology to quantify performance of commercial-level VR head-mounted display devices 
   in timing and positioning, accepted by 2016 ACM multimedia (<a href='https://twcmchang.github.io/files/ACM_MM16_cmc.pdf'>full paper</a>)
-    <hr style='margin-top:8px;margin-bottom:8px'>
   <li type='A'> Addressed real-world problems by machine learning and deep learning:
     <ul>
     <li type='1'> Churn prediction in subscription-based telecom services, 
