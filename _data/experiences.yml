@@ -10,9 +10,11 @@
   <p>- Proposed a methodology to quantify performance of commercial-level VR head-mounted display devices 
   in timing and positioning, accepted by 2016 ACM multimedia (<a href='https://twcmchang.github.io/files/ACM_MM16_cmc.pdf'>full paper</a>)
   <p>- Addressed real-world problems by machine learning and deep learning:
+    <ol>
     <li type='1'> Churn prediction in subscription-based telecom services, 
     boosting AUC from 0.76 to 0.81 and saving 50% budgets on retaining customers
     <li type='1'> Real-time pricing in online games, achieving average MAE less than 4% in comparison with professional bidders
+    </ol>
   "
 - experience:
   role: R&D intern
