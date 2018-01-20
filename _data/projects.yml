@@ -4,7 +4,7 @@
   time: "Dec 2017"
   tag: "Research topic: jointly work with NTU Hospital"
   tagline: "
-  <p style='margin-right:-8px'> - Built a 3D CNN using brain MRI raw image to predict chronological ages and 
+  <p>- Built a 3D CNN using brain MRI raw image to predict chronological ages and 
   the difference between chronological age and predicted age is quantified as the severity of neurodegeneration
   <!--<p> - Technical details:
     <ul>
@@ -20,7 +20,7 @@
   time: "Jul 2017"
   tag: "Course project: Machine Learning and having it Deep and Structured (MLDS), NTU"
   tagline: "
-  <p style='margin-right:-8px'> - Investigated the mechanism of batch normalization in both theoretical and experimental aspects and 
+  <p>- Investigated the mechanism of batch normalization in both theoretical and experimental aspects and 
   provided some possible explanations on why batch normalization works so well 
   (<a href='https://github.com/twcmchang/MLDS_final_2017'>github</a>)
   <!--
@@ -41,7 +41,7 @@
   time: "Mar 2017"
   tag: "Research topic: jointly work with Metabolic Engineering and Synthetic Biology Lab, UCLA"
   tagline: "
-  <p style='margin-right:-8px'> - Analyzed how enzyme kinects influence metabolic pathway robustness and provided insights on how to systematically adjust 
+  <p>- Analyzed how enzyme kinects influence metabolic pathway robustness and provided insights on how to systematically adjust 
   pathway parameters
   <!--<p> - Applied machine learning techniques to recognize bottleneck reactions in a pathway and identify the effect is either positive or negative to robustness
   <hr style='margin-top:8px;margin-bottom:8px'>-->
