@@ -4,55 +4,18 @@
   company: Data Insight and Research Lab, Academia Sinica
   details: "
   <ol style='margin-left:-8px'>
-  <li type='A'> Designed a novel algorithm to empower neural networks to possess multi-fidelity approximations at inference time without compromising performance significantly
-    <ul>
-      <li type='square'> Improved 50% accuracy while allowing 20% computation cost on CIFAR-100
-      <li type='square'> Keywords: deep learning, computation efficiency, fast computation
-    </ul>
+  <li type='A'> Designed a novel algorithm to empower a neural network having the ability of multi-fidelity approximations, 
+  achieving 60, 62, 65% accuracy while allowing 20, 50, 100% computation cost on CIFAR-100
     <hr style='margin-top:8px;margin-bottom:8px'>
-  <li type='A'> Investigated the relationships between crimes and various geographic, demographic and socioeconomic factors
-    <ul>
-      <li type='square'> Accepted as full paper in 2017 (9th) Asian Conference on Intelligent Information and Database Systems 
-      (<a href='https://twcmchang.github.io/files/ACIIDS17_cmc.pdf'>link</a>)
-      <li type='square'> Keywords: machine learning, data science in criminology, factor analysis
-    </ul>
+  <li type='A'> Investigated the relationships between crimes and various geographic, demographic and socioeconomic factors,
+  accepted in 2017 Asian Conference on Intelligent Information and Database Systems (<a href='https://twcmchang.github.io/files/ACIIDS17_cmc.pdf'>link</a>)
     <hr style='margin-top:8px;margin-bottom:8px'>
-  <li type='A'> Developed a methodology to quantify the performance of commercial-level VR head-mounted display devices 
-  in timing and positioning aspects
-    <ul>
-      <li type='square'> Accepted as full paper by 2016 ACM multimedia 
-      (<a href='https://twcmchang.github.io/files/ACM_MM16_cmc.pdf'>link</a>)
-      <li type='square'> Keywords: quality of experience, performance quantification, virtual reality
-    </ul>
+  <li type='A'> Developed a methodology to quantify performance of commercial-level VR head-mounted display devices 
+  in timing and positioning aspects, accepted as full paper by 2016 ACM multimedia (<a href='https://twcmchang.github.io/files/ACM_MM16_cmc.pdf'>link</a>)
     <hr style='margin-top:8px;margin-bottom:8px'>
   <li type='A'> Addressed real-world problems by machine learning and deep learning:
-    <ul>
-    <li type='1'> Churn prediction in subscription-based telecom services, improving the existing solution from 0.76 to 0.81 in AUC
-    <ul>
-      <li type='square'> Dataset: sampled 3M+ users in recent 2.5 years
-      <!--
-      <li type='square'> Improved the existing solution from 0.76 to 0.81 in AUC
-      <li type='square'> Correctly captured extra 10% churns among top 20% users
-      -->
-      <li type='square'> Keywords: data mining, feature engineering, gradient boosting tree
-    </ul>
+    <li type='1'> Churn prediction in subscription-based telecom services, saving 50% budgets on retaining customers and improving the existing solution from 0.76 to 0.81 in AUC
     <li type='1'> Real-time pricing in online games, achieving average MAE less than 4% compared to professional bidders
-    <ul>
-      <li type='square'> Dataset: 2000+ games, average 3000 users per game
-      <!--
-      <li type='square'> Compared to professional bidders, the average MAE of our model on prices is less than 4%
-      <li type='square'> 90% of adjustments are consistent in the direction, increase or decrease
-      -->
-      <li type='square'> Keywords: recurrent neural network, multivariate time series, information retrieval
-    </ul>
-    <!--
-    <li type='1'> Metabolic pathway robustness analysis from the machine learning perspective
-    <ul>
-      <li type='square'> Provided insights on adjusting system parameters for best system robustness
-      <li type='square'> Recognized bottleneck reactions in a pathway and identified the effects are positive or negative
-      <li type='square'> Keywords: machine learning, perturbation analysis
-    </ul>
-    -->
   </ol>
   "
 - experience:
