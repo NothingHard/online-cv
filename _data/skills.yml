@@ -7,6 +7,12 @@
   library:
   level: 88%
 - skill:
+  name: TensorFlow
+  level: 88%
+- skill:
+  name: Keras
+  level: 88%
+- skill:
   name: C++
   library:
   level: 66%

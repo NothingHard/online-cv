@@ -9,7 +9,7 @@
   accepted by 2017 ACIIDS (<a href='https://twcmchang.github.io/files/ACIIDS17_cmc.pdf'>full paper</a>)
   <p>- Proposed a methodology to quantify performance of commercial-level VR head-mounted display devices 
   in timing and positioning, accepted by 2016 ACM multimedia (<a href='https://twcmchang.github.io/files/ACM_MM16_cmc.pdf'>full paper</a>)
-  <p>- Addressed real-world problems by machine learning: churn prediction in subscription-based telecom services
+  <p>- Addressed real-world problems by machine learning: churn prediction in subscription-based telecom services; 
   real-time pricing in online platforms
   "
 - experience:
@@ -18,5 +18,5 @@
   company: Microsoft, Taiwan
   details: "
   <p>- Implemented and coordinated a very first IoT demonstration of applying Microsoft Azure service in the smart home scenario
-  <p>- Developed cross-platform (Windows, Andriod, iOS) applications by Xamarin
+  <p>- Developed cross-platform applications by Xamarin
   "
