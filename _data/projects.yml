@@ -46,3 +46,15 @@
   <!--<p> - Applied machine learning techniques to recognize bottleneck reactions in a pathway and identify the effect is either positive or negative to robustness
   <hr style='margin-top:8px;margin-bottom:8px'>-->
   "
+- project:
+  title: "Non-invasive Blood Glucose Measurement"
+  link: "https://twcmchang.github.io/project/blood_glucose/"
+  time: "Oct 2017"
+  tag: "Research project: jointly work with Research Center of Applied Science, Academia Sinica"
+  tagline: "
+  <p>- Proposed a non-invasive glucose measurement method using convolutional neural network, 
+  achieving 93.5% clinically correct decisions and 6.5% uncritical decisions
+  "
+
+
+
