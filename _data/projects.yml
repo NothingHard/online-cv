@@ -2,7 +2,7 @@
   title: "Early Detection of Neurodegeneration"
   link: "https://twcmchang.github.io/projects/1_2017-12-16-MRI_cmc"
   time: "Dec 2017"
-  tag: "Research topic: jointly work with NTU Hospital"
+  #tag: "Research topic: jointly work with NTU Hospital"
   tagline: "
   <p>- Built a 3D CNN using brain MRI raw image to predict chronological ages and 
   the difference between chronological age and predicted age is quantified as the severity of neurodegeneration
@@ -18,7 +18,7 @@
   title: "In-depth Study on Batch Normalization"
   link: "https://twcmchang.github.io/batch_normalization/"
   time: "Jul 2017"
-  tag: "Course project: Machine Learning and having it Deep and Structured (MLDS), NTU"
+  #tag: "Course project: Machine Learning and having it Deep and Structured (MLDS), NTU"
   tagline: "
   <p>- Investigated the mechanism of batch normalization in both theoretical and experimental aspects and 
   provided some possible explanations on why batch normalization works so well 
@@ -39,7 +39,7 @@
   title: "Metabolic Pathway Analysis"
   link: "https://twcmchang.github.io/projects/1_2017-03-16-MSA_cmc"
   time: "Mar 2017"
-  tag: "Research topic: jointly work with Metabolic Engineering and Synthetic Biology Lab, UCLA"
+  #tag: "Research topic: jointly work with Metabolic Engineering and Synthetic Biology Lab, UCLA"
   tagline: "
   <p>- Analyzed how enzyme kinects influence metabolic pathway robustness and provided insights on how to systematically adjust 
   pathway parameters
@@ -50,7 +50,7 @@
   title: "Non-invasive Blood Glucose Measurement"
   link: "https://twcmchang.github.io/project/blood_glucose/"
   time: "Oct 2017"
-  tag: "Research project: jointly work with Research Center of Applied Science, Academia Sinica"
+  #tag: "Research project: jointly work with Research Center of Applied Science, Academia Sinica"
   tagline: "
   <p>- Proposed a non-invasive glucose measurement method using convolutional neural network, 
   achieving 93.5% clinically correct decisions and 6.5% uncritical decisions
