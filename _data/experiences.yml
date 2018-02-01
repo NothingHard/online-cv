@@ -3,14 +3,14 @@
   time: 2015 - Present
   company: Data Insight and Research Lab, Academia Sinica
   details: "
-  <p>- Innovated an algorithm to empower a neural network having multi-fidelity approximations, 
-  achieving 60-65% accuracy while using 20-100% computation cost on CIFAR-100
+  <p>- Innovated an algorithm to empower deep neural networks having multi-fidelity approximations, 
+  achieving 88% accuracy on CIFAR-10 when only 2.5% computation cost in VGG16
   <p>- Investigated the relationships between crimes and various geographic, demographic and socioeconomic factors,
-  accepted by 2017 ACIIDS (<a href='https://twcmchang.github.io/files/ACIIDS17_cmc.pdf'>full paper</a>)
+  accepted <a href='https://twcmchang.github.io/files/ACIIDS17_cmc.pdf'>full paper</a> by 2017 ACIIDS
   <p>- Proposed a methodology to quantify performance of commercial-level VR head-mounted display devices 
-  in timing and positioning, accepted by 2016 ACM multimedia (<a href='https://twcmchang.github.io/files/ACM_MM16_cmc.pdf'>full paper</a>)
-  <p>- Addressed real-world problems by machine learning: churn prediction in subscription-based telecom services; 
-  real-time pricing in online platforms
+  in timing and positioning, accepted <a href='https://twcmchang.github.io/files/ACM_MM16_cmc.pdf'>full paper</a> by 2016 ACM multimedia
+  <p>- Addressed real-world problems by machine learning, such as churn prediction in subscription-based telecom services, 
+  real-time pricing in online platforms, 
   "
 - experience:
   role: R&D intern
