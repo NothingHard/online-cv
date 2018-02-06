@@ -24,8 +24,7 @@
   time: "Dec 2017"
   #tag: "Research topic: jointly work with NTU Hospital"
   tagline: "
-  <p>- Developed a 3D CNN to predict chronological ages, achieving MAE=4.2 & Cor=0.95 over 56 testing subjects, 
-  and thus quantify the severity of neurodegeneration
+  <p>- Developed a 3D CNN to predict chronological ages, achieving MAE=4.2 and Cor=0.95 in the test dataset. Quantified the severity of neurodegeneration as the difference of predicted and chronological ages
   <!--<p> - Technical details:
     <ul>
       <li> Devised a bottleneck architecture to ease the training of networks</li>
