@@ -24,8 +24,8 @@
   time: "Dec 2017"
   #tag: "Research topic: jointly work with NTU Hospital"
   tagline: "
-  <p>- Developed a 3D CNN to quantify the severity of neurodegeneration by predicting chronological ages, 
-  achieving MAE=4.2, Cor=0.95 while evaluating 56 healthy subjects
+  <p>- Developed a 3D CNN to predict chronological ages, achieving MAE=4.2 & Cor=0.95 over 56 testing subjects, 
+  and thus quantify the severity of neurodegeneration
   <!--<p> - Technical details:
     <ul>
       <li> Devised a bottleneck architecture to ease the training of networks</li>
@@ -49,7 +49,7 @@
   #tag: "Research topic: jointly work with Metabolic Engineering and Synthetic Biology Lab, UCLA"
   tagline: "
   <p>- Analyzed how enzyme kinects influence metabolic pathway robustness and provided insights on how to systematically adjust 
-  pathway parameters
+  enzyme concentration and velocity
   <!--<p> - Applied machine learning techniques to recognize bottleneck reactions in a pathway and identify the effect is either positive or negative to robustness
   <hr style='margin-top:8px;margin-bottom:8px'>-->
   "
