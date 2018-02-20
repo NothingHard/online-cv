@@ -3,20 +3,21 @@
   time: 2015 - Present
   company: Data Insight and Research Lab, Academia Sinica
   details: "
-  <p>- Innovated an algorithm to empower deep neural networks having multi-fidelity approximations, 
-  achieving 88% accuracy on CIFAR-10 when only 2.5% computation cost in VGG16
+  <p>- Proposed a channel-prioritized training procedure for CNNs, achieving both sparsity and dynamic inference at the same time.
+  Experiments of CIFAR-10 on VGG-16 show 94.6% parameter reduction without compromising accuracy
+  <p>- Innovated an algorithm to enable NNs dynamically trade-offs between various resource and performance requirements, 
+  achieving 88% accuracy on CIFAR-10 when computation cost limited to 2.5% in VGG16
   <p>- Investigated the relationships between crimes and various geographic, demographic and socioeconomic factors,
   accepted <a href='https://twcmchang.github.io/files/ACIIDS17_cmc.pdf'>full paper</a> by 2017 ACIIDS
   <p>- Proposed a methodology to quantify performance of commercial-level VR head-mounted display devices 
   in timing and positioning, accepted <a href='https://twcmchang.github.io/files/ACM_MM16_cmc.pdf'>full paper</a> by 2016 ACM multimedia
   <p>- Addressed real-world problems by machine learning, such as churn prediction in subscription-based telecom services, 
-  real-time pricing in online platforms, 
+  real-time pricing in online platforms, and income prediction using liked Facebook fan pages etc.
   "
 - experience:
   role: R&D intern
   time: 2014 - 2015
   company: Microsoft, Taiwan
   details: "
-  <p>- Implemented and coordinated a very first IoT demonstration of applying Microsoft Azure service in the smart home scenario
-  <p>- Developed cross-platform applications by Xamarin
+  <p>- Implemented and coordinated a very first IoT demonstration of applying Microsoft Azure service in the smart home scenario and developed cross-platform applications by Xamarin
   "

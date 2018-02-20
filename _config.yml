@@ -14,25 +14,24 @@ baseurl: '/online-cv' #change it according to your repository name
 name: Chun Ming Chang
 tagline: NTU EECS PhD student
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: '<p>I am a first-year Ph.D. student in Electrical Engineering and Computer Science (EECS) 
+summary: '<p> I am a first-year Ph.D. student in Electrical Engineering and Computer Science (EECS) 
 in National Taiwan University, working with Dr. Sheng-Wei (Kuan-Ta) Chen and Dr. Chin-Laung Lei;
 also a machine learning engineer in 
 <a href="http://dirl.iis.sinica.edu.tw/">Data Insight Research Lab</a> of Academia Sinica.
 
-<p> My research focuses on novel algorithms for deep learning, particularly in model compression and energy-efficient inference, and the applications in clinical diagnosis. 
+<p> My research focuses on deep learning, particularly in model compression and energy-efficient inference, and its applications in clinical diagnosis. 
 To know more about my research, please find my <a href="https://twcmchang.github.io/publications/">publications</a> and <a href="https://twcmchang.github.io/projects/">projects</a>.
 
-<p>Recently, I am honored to be one of the invited speakers in <a href="http://ds.sinica.edu.tw/ai-month-2017/">AI Month 2017</a> and 
-<a href="http://ds.sinica.edu.tw/category/2017-ml-month/">ML Month 2017</a>, Academia Sinica. 
+<p> Recently, I am honored to be one of the invited speakers in two distinguished lectures in Academia Sinica, AI Month 2017 and ML Month 2017. 
 And also give two hands-on tutorials: <a href="https://www.slideshare.net/ssuser950871/handson-tutorial-of-deep-learning">deep learning in Python (slideshare)</a> and 
 <a href="https://www.slideshare.net/ssuser950871/practical-data-analysis-in-r">practical data analysis in R (slideshare)</a> 
-in <a href="http://foundation.datasci.tw/">Data Science Conference in Taiwan</a>.'
+in Data Science Conference in Taiwan.'
 
 #sidebar links
 email: d05921027@ntu.edu.tw
 phone: +886 911 093 825
 website: twcmchang.github.io #do not add http://
-linkedin: chun-ming-chang
+linkedin: chun-min-chang
 github: twcmchang
 twitter: 'twcmchang'
 #Update all the sections by editing the files inside _data folder.
