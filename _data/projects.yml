@@ -5,7 +5,7 @@
   #tag: "Course project: Machine Learning and having it Deep and Structured (MLDS), NTU"
   tagline: "
   <p><font color='#fb8072'>[DL]</font> Investigated batch normalization in both theoretical and experimental aspects and 
-  provided valuable insights on why batch normalization works so well in terms of layer Jacobian distributions
+  explained why batch normalization works so well in terms of layer Jacobian distributions
   (<a href='https://github.com/twcmchang/MLDS_final_2017'>github</a>)
   <!--
   <p> - Won the 1st place in peer reviews and the 2nd place in the oral presentation voted by audience and 
