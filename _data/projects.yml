@@ -4,8 +4,8 @@
   time: "Jul 2017"
   #tag: "Course project: Machine Learning and having it Deep and Structured (MLDS), NTU"
   tagline: "
-  <p>- Investigated batch normalization in both theoretical and experimental aspects and 
-  provided valuable insights on why batch normalization works so well
+  <p><font color='#fb8072'>[DL]</font> Investigated batch normalization in both theoretical and experimental aspects and 
+  provided valuable insights on why batch normalization works so well in terms of layer Jacobian distributions
   (<a href='https://github.com/twcmchang/MLDS_final_2017'>github</a>)
   <!--
   <p> - Won the 1st place in peer reviews and the 2nd place in the oral presentation voted by audience and 
@@ -24,7 +24,7 @@
   time: "Dec 2017"
   #tag: "Research topic: jointly work with NTU Hospital"
   tagline: "
-  <p>- Developed a 3D CNN to predict chronological ages, achieving MAE=4.2 and Cor=0.95 in the test dataset. Quantified the severity of neurodegeneration as the difference of predicted and chronological ages
+  <p><font color='#fb8072'>[DL]</font> Developed a 3D CNN to predict chronological ages, achieving MAE=4.2 and Cor=0.95 in the test dataset. Quantified the severity of neurodegeneration as the difference of predicted and chronological ages
   <!--<p> - Technical details:
     <ul>
       <li> Devised a bottleneck architecture to ease the training of networks</li>
@@ -38,7 +38,7 @@
   time: "Oct 2017"
   #tag: "Research project: jointly work with Research Center of Applied Science, Academia Sinica"
   tagline: "
-  <p>- Proposed a non-invasive glucose measurement method using convolutional neural network, 
+  <p><font color='#fb8072'>[DL]</font> Proposed a non-invasive glucose measurement method using convolutional neural network, 
   achieving 93.5% clinically correct decisions and 6.5% uncritical decisions
   "
 - project:
@@ -47,8 +47,8 @@
   time: "Mar 2017"
   #tag: "Research topic: jointly work with Metabolic Engineering and Synthetic Biology Lab, UCLA"
   tagline: "
-  <p>- Analyzed how enzyme kinects influence metabolic pathway robustness and provided insights on how to systematically adjust 
-  enzyme concentration and velocity
+  <p><font color='#4daf4a'>[ML]</font> Analyzed how enzyme kinects influence metabolic pathway robustness and 
+  provided insights on how to systematically adjust enzyme concentration and velocity
   <!--<p> - Applied machine learning techniques to recognize bottleneck reactions in a pathway and identify the effect is either positive or negative to robustness
   <hr style='margin-top:8px;margin-bottom:8px'>-->
   "

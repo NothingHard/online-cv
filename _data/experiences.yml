@@ -3,17 +3,17 @@
   time: 2015 - Present
   company: Data Insight and Research Lab, Academia Sinica
   details: "
-  <p><font color='#fb8072'>[DL]</font>Proposed a channel-prioritized training procedure to allow CNNs having both sparsity and dynamic inference at the same time.
+  <p><font color='#fb8072'>[DL]</font> Proposed a channel-prioritized training procedure to allow CNNs having both sparsity and dynamic inference at the same time.
   Experiments of CIFAR-10 on VGG-16 show 94.6% parameter reduction without compromising accuracy
-  <p><font color='#fb8072'>[DL]</font>Innovated an algorithm to allow dynamically trade-offs between various resource and performance requirements, 
+  <p><font color='#fb8072'>[DL]</font> Innovated an algorithm to allow dynamically trade-offs between various resource and performance requirements, 
   retaining 88% accuracy on CIFAR-10 when computation cost limited to 2.5% in VGG16
-  <p><font color='#fb8072'>[DL]</font>Developed a 3D CNN to predict chronological ages using raw fMRI images, reaching MAE=4.2 and Cor=0.95 in the test dataset. 
+  <p><font color='#fb8072'>[DL]</font> Developed a 3D CNN to predict chronological ages using raw fMRI images, reaching MAE=4.2 and Cor=0.95 in the test dataset. 
   Applied in early detecting neurodegeneration such as Alzheimer's disease
-  <p><font color='#fb8072'>[DL]</font>Proposed a non-invasive glucose measurement method using ECG ang PPG signals. Proposed 1D CNNs to handel time-serie signals
+  <p><font color='#fb8072'>[DL]</font> Proposed a non-invasive glucose measurement method using ECG ang PPG signals. Proposed 1D CNNs to handel time-serie signals
   achieved 93.5% clinically correct decisions and 6.5% uncritical decisions
-  <p><font color='#4daf4a'>[ML]</font>Investigated the relationships between crimes and various geographic, demographic and socioeconomic factors,
+  <p><font color='#4daf4a'>[ML]</font> Investigated the relationships between crimes and various geographic, demographic and socioeconomic factors,
   accepted <a href='https://twcmchang.github.io/files/ACIIDS17_cmc.pdf'>full paper</a> by 2017 ACIIDS
-  <p><font color='#984ea3'>[DA]</font>Proposed a methodology to quantify performance of commercial-level VR head-mounted display devices 
+  <p><font color='#984ea3'>[DA]</font> Proposed a methodology to quantify performance of commercial-level VR head-mounted display devices 
   in timing and positioning, accepted <a href='https://twcmchang.github.io/files/ACM_MM16_cmc.pdf'>full paper</a> by 2016 ACM multimedia
   <p>Addressed real-world problems by machine learning, such as churn prediction in subscription-based telecom services, 
   real-time pricing in online platforms, and income prediction using liked Facebook fan pages etc.
@@ -23,5 +23,5 @@
   time: 2014 - 2015
   company: Microsoft, Taiwan
   details: "
-  <p><font color='#984ea3'>[CS]</font>Implemented and coordinated a very first IoT demonstration of applying Microsoft Azure service in the smart home scenario and developed cross-platform applications by Xamarin
+  <p><font color='#984ea3'>[CS]</font> Implemented and coordinated a very first IoT demonstration of applying Microsoft Azure service in the smart home scenario and developed cross-platform applications by Xamarin
   "
