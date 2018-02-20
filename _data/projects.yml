@@ -40,7 +40,7 @@
   tagline: "
   <p><font color='#fb8072'>[DL]</font> Proposed a non-invasive glucose measurement method using convolutional neural network, 
   achieving 93.5% clinically correct decisions and 6.5% uncritical decisions
-  "
+  <hr style='margin-top:8px;margin-bottom:8px'>"
 - project:
   title: "Metabolic Pathway Analysis"
   link: "https://twcmchang.github.io/projects/1_2017-03-16-MSA_cmc"
