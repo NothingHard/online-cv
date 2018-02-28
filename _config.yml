@@ -1,5 +1,5 @@
 # Site Settings
-title: Chun Ming Chang
+title: Chun Min Chang
 url: 'http://twcmchang.github.io'
 baseurl: '/online-cv' #change it according to your repository name
 
@@ -31,7 +31,7 @@ in Data Science Conference in Taiwan.'
 #sidebar links
 email: twcmchang@gmail.com
 phone: +886 911 093 825
-website: twcmchang.github.io #do not add http://
+website: twcmchang.github.io/post #do not add http://
 linkedin: chun-min-chang
 github: twcmchang
 twitter: 'twcmchang'
