@@ -1,6 +1,6 @@
 - project:
   title: "In-depth Study on Batch Normalization"
-  link: "https://twcmchang.github.io/batch_normalization/"
+  link: "https://twcmchang.github.io/post/project-BN"
   time: "Jul 2017"
   #tag: "Course project: Machine Learning and having it Deep and Structured (MLDS), NTU"
   tagline: "
@@ -20,7 +20,7 @@
   "
 - project:
   title: "Early Detection of Neurodegeneration"
-  link: "https://twcmchang.github.io/projects/1_2017-12-16-MRI_cmc"
+  link: "https://twcmchang.github.io/post/project-MRI"
   time: "Dec 2017"
   #tag: "Research topic: jointly work with NTU Hospital"
   tagline: "
@@ -43,7 +43,7 @@
   <hr style='margin-top:8px;margin-bottom:8px'>"
 - project:
   title: "Metabolic Pathway Analysis"
-  link: "https://twcmchang.github.io/projects/1_2017-03-16-MSA_cmc"
+  link: "https://twcmchang.github.io/post/project-MSA"
   time: "Mar 2017"
   #tag: "Research topic: jointly work with Metabolic Engineering and Synthetic Biology Lab, UCLA"
   tagline: "
