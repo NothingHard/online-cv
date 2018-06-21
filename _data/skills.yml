@@ -1,11 +1,11 @@
 - skill:
   name: R
   library:
-  level: 93%
+  level: 90%
 - skill:
   name: Python
   library:
-  level: 88%
+  level: 90%
 - skill:
   name: TensorFlow
   level: 88%
