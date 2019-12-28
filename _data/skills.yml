@@ -1,18 +1,22 @@
 - skill:
-  name: R
-  library:
-  level: 90%
-- skill:
   name: Python
   library:
   level: 90%
 - skill:
   name: TensorFlow
+  library:
+  level: 90%
+- skill:
+  name: PyTorch
   level: 88%
 - skill:
   name: Keras
   level: 80%
 - skill:
+  name: R
+  library:
+  level: 75%
+- skill:
   name: C++
   library:
-  level: 66%
+  level: 70%
