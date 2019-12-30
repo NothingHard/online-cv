@@ -14,9 +14,19 @@ baseurl: '/online-cv' #change it according to your repository name
 name: Chun Min Chang
 tagline: Master Student, UW-Madison ECE
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+<<<<<<< HEAD
 summary: '<p> I am a first-year master student in Machine Learning and Signl Processing, Electrical and Computer Engineering at the University of Wisconsin-Madison. Previously, I worked on applied deep learning research with Dr. Sheng-Wei (Kuan-Ta) Chen at Academia Sinica.
 <p> My research focuses on <font color="#fb8072">energy-efficient deep learning</font>, and the applications in healthcare, medical imaging, and computer-aided diagnosis. Recently, my works were presented in top journals such as Nature Communications and Nature Digital Medicine. 
 To know more about my research, please find my <a href="https://twcmchang.github.io/publications/">publications</a> and <a href="https://twcmchang.github.io/projects/">projects</a>.'
+=======
+summary: '<p> I am a first-year master student in the Machine Learning and Signal Processing program, 
+the Department of Electrical and Computer Engineering at the University of Wisconsin-Madison.
+Previously, I worked at <a href="https://piccollage.com/">PicCollage</a> as a machine learning engineer focusing on
+efficient deep learning for computer vision. During 2015-2018, I was honered to work with Dr. Sheng-Wei (Kuan-Ta) Chen
+at Academia Sinica, Taiwan, for my alternative military service.
+<p> My research focuses on <font color="#fb8072">energy-efficient deep learning</font> and the applications in healthcare, medical imaging, and computer-aided diagnosis. Recently, my works were presented in top journals such as Nature Communications and Nature Digital Medicine. 
+To know more about my research, please find my <a href="https://scholar.google.com.tw/citations?user=Xw3CAEwAAAAJ">Google Scholar</a>.'
+>>>>>>> 837d1edded5c28efc26cf3ceedb490383b7452f7
 
 #sidebar links
 email: twcmchang@gmail.com
@@ -24,7 +34,7 @@ phone: +1 608-504-8316
 website: twcmchang.github.io/post #do not add http://
 linkedin: chun-min-chang
 github: twcmchang
-twitter: 'twcmchang'
+#twitter: 'twcmchang'
 #Update all the sections by editing the files inside _data folder.
 
 # Tracker
